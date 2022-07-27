@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Tarek 👋</h2>
 
-I am 28 years old, from Amsterdam. I speak English, Dutch and a bit of German. I recently switched careers from being a product developer in fashion, to web development. To facilitate this, I completed a 10-week bootcamp at Codaisseur, where I learnt to use JavaScript, React, Redux, NodeJS, Express, PostgreSQL and more. I'm looking forward to expanding my knowledge and honing my skill as a developer.
+I am 28 years old, from Amsterdam. I speak English, Dutch and a bit of German. I recently switched careers from being a product developer in fashion, to web development. To facilitate this, I completed a 10-week bootcamp at Codaisseur, where I learnt to use JavaScript, React, Redux, NodeJS, Express, PostgreSQL and more. I'm looking forward to expanding my knowledge and honing my skills as a developer.
 
 <h2>Tech Stack:</h2>
 <div width="10%" background-color="yellow">
